@@ -1,0 +1,60 @@
+body{
+	background-color: #072118;
+}
+.contener{
+
+	 background-image: url('po.png');
+	 width:auto;
+    height:1000px;
+    margin-top: 2%;
+    margin-left: 10%;
+    margin-right: 15%;
+      background-repeat: no-repeat;
+  
+}
+nav{
+
+margin-top: 5%;
+	display:flex;
+	color: #ad7818;
+	justify-content: center;
+}
+ul{
+	display: inline-flex;
+	margin-top: 5%;
+}
+a{
+	color: #ad7818;
+	font-family: 'Calibri';
+	text-decoration: none;
+}
+.art{
+	 top: 120px;
+	 position: absolute;
+	justify-content: center;
+	font-size: 50px;
+	font-family: 'Bell MT';
+	color: #ad7818;
+	margin-left: 510px;
+    font-style: italic;
+}
+#et{
+	font-family: 'Bell MT';
+	font-style:italic;
+	font-size: 80px;
+}
+.unpr{
+    position: absolute;
+	top: 120px;
+	left: 55px;
+	color:  #ad7818;
+	font-size: 115px;
+	margin-top: 16%;
+	margin-left: 27%;
+
+
+}
+
+#laisse_marge a{
+	padding-right: 380px;
+}
